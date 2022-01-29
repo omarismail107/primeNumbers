@@ -6,7 +6,8 @@ I then used Sieve's algorithm in order to set the boolean array to values of eit
 index was a primeNumber or not. Eight threads were then created and ran with a set range to evaluate. The threads would go to every index in 
 their range and check the to see whether the index is true or false and update the count and sum using an AtomicInteger and AtomicLong accordingly.
 
-The efficiency of this algorithm is O(sqrt(n)n)
+The efficiency of this algorithm is O(sqrt(n) * n). The algorithm initially took a total time of about 3 seconds to complete without using 
+concurrency. After multithreading was implemented, the algorithm took approximately 0.65 seconds.
 
 ```
 How to Compile
