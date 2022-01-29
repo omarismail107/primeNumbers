@@ -9,7 +9,6 @@ their range and check the boolean array index
 ```
 How to Compile
 ```
-Javac primeNumbers.java
-Then :
+First Command: Javac primeNumbers.java
+Second Command: Java primeNumbers 
 ```
-Java primeNumbers
