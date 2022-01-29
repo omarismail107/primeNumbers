@@ -23,4 +23,4 @@ How to Compile
 First Command: Javac primeNumbers.java
 
 Second Command: Java primeNumbers 
-```
+
