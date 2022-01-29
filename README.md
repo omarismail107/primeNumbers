@@ -10,5 +10,6 @@ their range and check the boolean array index
 How to Compile
 ```
 First Command: Javac primeNumbers.java
+```
 Second Command: Java primeNumbers 
 ```
