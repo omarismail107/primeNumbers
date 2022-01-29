@@ -7,4 +7,9 @@ index was a primeNumber or not. Eight threads were then created and ran with a s
 their range and check the boolean array index
 
 ```
-# How to Compile
+How to Compile
+```
+Javac primeNumbers.java
+Then :
+```
+Java primeNumbers
